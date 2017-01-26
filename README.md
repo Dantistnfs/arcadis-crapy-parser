@@ -1,10 +1,10 @@
-# arcadis-crapy-parser
+# arcadis-scrapy-parser
 Parser for arcadis.com
 
 
-Requirements
+# Requirements
 - python3
 - scrapy
 
-Start with:
- scrapy crawl cities-index -L INFO -o output.csv
+# Parse with:
+'scrapy crawl cities-index -L INFO -o output.csv'
